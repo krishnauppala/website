@@ -1,0 +1,47 @@
+*
+{
+margin-top:2px ;
+margin-left:5px;
+margin-right:2px;    
+}
+body{
+background-image:url(https://cdn.wallpapersafari.com/93/9/GprDRh.jpgt);
+background-color:aquamarine;
+}
+p{
+    display:inline-flex;
+    flex-direction: row;
+}
+a:hover{
+    background-color:yellow;
+}
+img{
+   border-radius:500px;
+   height:200px;
+   width: 200px;
+flex-direction:center;
+margin-left:8cm;
+}
+p1{
+    flex-direction: row;
+}
+h1{
+    text-transform:uppercase;
+    font-style: italic;
+    font-size:xx-large;
+    color:blue;
+}
+h2{text-transform: none;
+   font-style: italic;
+   color:rgb(234, 19, 163);
+   font-size: x-large; 
+}
+
+header{
+    text-align: center;
+    text-transform: uppercase;
+}
+p2{
+    text-transform: lowercase;
+}
+
